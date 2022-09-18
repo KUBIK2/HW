@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p {
+  text-align: center;
+}
+body {
+  background-color: lightslategray;
+}
+h1 {
+    font-size: 100px;
+  color: lightgray;
+  text-align: center;
+}
+
+img {
+  width: 1500px;
+}
+
+h2 {
+    font-size: 100px;
+  color: lightgray;
+  text-align: center;
+}
+.text {
+  font-size: 100px;
+  text-align: left;
+  color: whitesmoke;
+
+}
+h3 {
+    font-size: 100px;
+    color: lightgray;
+    text-align: center;
+}
+.text1{
+    color: bisque;
+    font-size: 50px;
+    text-align: left;
+}
